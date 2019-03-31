@@ -1,0 +1,2 @@
+# staticref
+static reference
